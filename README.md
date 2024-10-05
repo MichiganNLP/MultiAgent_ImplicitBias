@@ -1,11 +1,16 @@
 # Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions
 
 Current LLMs use RLHF to reduce explicit bias in their outputs. But do they also address *implicit* bias? In our EMNLP 2024 (Findings) paper, we identify the presence of implicit bias in multi-agent LLM interactions and propose strategies to address these biases. 
-![image](https://github.com/user-attachments/assets/74fb07ee-af60-44d5-bf8f-4ff95da33153)
+![image](https://github.com/user-attachments/assets/74fb07ee-af60-44d5-bf8f-4ff95da33153) \n
 
-The emergence of multi-agent interactions that employ LLMs enables the simulation of realistic human interactions, and this framework enables us to examine the presence of implicit biases “in action”. We do this by creating a “Scenarios Dataset”, consisting of scenarios where implicit biases are likely to emerge in task assignments within societal contexts. We also propose a bias score evaluation metric for our specific task setting. 
-![image](https://github.com/user-attachments/assets/2ef2c5a3-6a8d-41a3-b649-74d96c8c418b)
 
+The emergence of multi-agent interactions that employ LLMs enables the simulation of realistic human interactions, and this framework enables us to examine the presence of implicit biases “in action”. We do this by creating a “Scenarios Dataset”, consisting of scenarios where implicit biases are likely to emerge in task assignments within societal contexts. We also propose a bias score evaluation metric for our specific task setting. \n
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/712be231-78e0-40e6-b22e-fd0070a77c93" alt="Scenario Image" width="600">
+</p>
+
+\n
 We find that biases increase after multi-agent interaction. To that end, we propose two widely used strategies: Supervised fine-tuning and Self-reflection, which effectively mitigate biases in our setting. For more information, read our paper: \n 
 [Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](https://arxiv.org/pdf/2410.02584) \n 
 By [Angana Borah](https://anganab.github.io/) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/)
