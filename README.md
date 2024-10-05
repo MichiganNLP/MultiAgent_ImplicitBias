@@ -2,7 +2,7 @@
 
 Current LLMs use RLHF to reduce explicit bias in their outputs. But do they also address *implicit* bias? 
 
-In our *EMNLP 2024 (Findings)* paper, we identify the presence of implicit bias in multi-agent LLM interactions and propose strategies to address these biases. 
+In our *EMNLP 2024 (Findings)* [paper](https://arxiv.org/pdf/2410.02584), we identify the presence of implicit bias in multi-agent LLM interactions and propose strategies to address these biases. 
 
 ![image](https://github.com/user-attachments/assets/74fb07ee-af60-44d5-bf8f-4ff95da33153) 
 
