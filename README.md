@@ -7,7 +7,7 @@ Current LLMs use RLHF to reduce explicit bias in their outputs. But do they also
 The emergence of multi-agent interactions that employ LLMs enables the simulation of realistic human interactions, and this framework enables us to examine the presence of implicit biases “in action”. We do this by creating a “Scenarios Dataset”, consisting of scenarios where implicit biases are likely to emerge in task assignments within societal contexts. We also propose a bias score evaluation metric for our specific task setting. 
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/712be231-78e0-40e6-b22e-fd0070a77c93" alt="Scenario Image" width="600">
+  <img src="https://github.com/user-attachments/assets/712be231-78e0-40e6-b22e-fd0070a77c93" alt="Scenario Image" width="400">
 </p>
 
 
