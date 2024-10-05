@@ -1,6 +1,7 @@
 # Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions
 
 Current LLMs use RLHF to reduce explicit bias in their outputs. But do they also address *implicit* bias? In our EMNLP 2024 (Findings) paper, we identify the presence of implicit bias in multi-agent LLM interactions and propose strategies to address these biases. 
+
 ![image](https://github.com/user-attachments/assets/74fb07ee-af60-44d5-bf8f-4ff95da33153) 
 
 
@@ -11,8 +12,11 @@ The emergence of multi-agent interactions that employ LLMs enables the simulatio
 </p>
 
 
-We find that biases increase after multi-agent interaction. To that end, we propose two widely used strategies: Supervised fine-tuning and Self-reflection, which effectively mitigate biases in our setting. For more information, read our paper: \n 
-[Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](https://arxiv.org/pdf/2410.02584) \n 
+
+We find that biases increase after multi-agent interaction. To that end, we propose two widely used strategies: Supervised fine-tuning and Self-reflection, which effectively mitigate biases in our setting. For more information, read our paper: 
+
+[Towards Implicit Bias Detection and Mitigation in Multi-Agent LLM Interactions](https://arxiv.org/pdf/2410.02584) 
+
 By [Angana Borah](https://anganab.github.io/) and [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/)
 
 
