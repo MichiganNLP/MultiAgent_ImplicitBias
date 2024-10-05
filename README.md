@@ -32,7 +32,7 @@ By [Angana Borah](https://anganab.github.io/) and [Rada Mihalcea](https://web.ee
 
 The Scenarios, Fine-tune and Test datasets are provided in the [Data](https://github.com/MichiganNLP/MultiAgent_ImplicitBias/tree/main/Data) folder. 
 
-The codebase for the multi-agent framework is in the [Data](https://github.com/MichiganNLP/MultiAgent_ImplicitBias/tree/main/Code) folder. 
+The codebase for the multi-agent framework is in the [Code](https://github.com/MichiganNLP/MultiAgent_ImplicitBias/tree/main/Code) folder. 
 
 ## Citation 
 ```bibtex
